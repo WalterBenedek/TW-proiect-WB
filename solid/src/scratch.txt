@@ -1,0 +1,28 @@
+<div class="hero-form field field-grouped is-revealing">
+	                            <div class="control control-expanded">
+	                                <input class="input" type="email" name="email" placeholder="Your best email…">
+	                            </div>
+	                            <div class="control">
+	                                <a class="button button-primary button-block" href="#">Notify Me</a>
+	                            </div>
+	                        </div>
+<div class="control control-expanded">
+	                                <input class="input" type="email" name="email" placeholder="Your best email…">
+	                            </div>
+<input class="input" type="email" name="email" placeholder="Your best email…">
+<div pseudo="placeholder">Your best email…</div><div contenteditable="plaintext-only"></div>
+<input class="input" type="email" name="email" placeholder="Your best email…">
+<div class="control control-expanded">
+	                                <input class="input" type="email" name="email" placeholder="Your best email…">
+	                            </div>
+<div class="control">
+	                                <a class="button button-primary button-block" href="#">Notify Me</a>
+	                            </div>
+<div class="hero-form field field-grouped is-revealing">
+	                            <div class="control control-expanded">
+	                                <input class="input" type="email" name="email" placeholder="Your best email…">
+	                            </div>
+	                            <div class="control">
+	                                <a class="button button-primary button-block" href="#">Notify Me</a>
+	                            </div>
+	                        </div>
